@@ -1,0 +1,3 @@
+
+1. npm i -g create-react-app - встановлюємо REACT в потрібну папку 
+2. npx create-react-app learn-the-words - створюємо додаток на REACT
